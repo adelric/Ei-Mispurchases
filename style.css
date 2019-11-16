@@ -1,3 +1,67 @@
-#Return{
-    color:red
+#availReturn{
+    text-align: center;
+}
+
+#noReturn{
+    text-align: center;
+}
+
+.btn-danger{
+    display: block;
+    max-width: 300px;
+    margin: auto;
+}
+
+.card1{
+    padding: 20px;
+    border-style: groove;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    margin-left: 40px;
+}
+
+.card2{
+    padding: 20px;
+    border-style: groove;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.card3{
+    padding: 20px;
+    border-style: groove;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 10px;
+}
+
+.card4{
+    padding: 20px;
+    border-style: groove;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    margin-left: 40px;
+}
+
+.card5{
+    padding: 20px;
+    border-style: groove;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.card6{
+    padding: 20px;
+    border-style: groove;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    margin-left: 10px;
 }
