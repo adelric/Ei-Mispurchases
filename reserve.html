@@ -11,7 +11,7 @@
 
     <title>Reserve Items</title>
   </head>
-  <body>
+
     <h1 id="availReturn">Available returned items:</h1>
 
     <div class="row justify-content-around">
@@ -80,9 +80,15 @@
     </div>
 
     <h1 id="noReturn">No Available Items:</h1>
-    <button type="button" class="btn btn-danger">Reserve one</button>
+    <div class="alert alert-success alert-dismissable">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+            Success! You reserved a cool Jacket!!!!!!!!!!!!!!!!!!!!!!!
+    </div>
+    <button type="button" class="btn btn-danger" onclick="$('.alert').show()">Reserve one</button>
+    
 
     <!-- Optional JavaScript -->
+
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

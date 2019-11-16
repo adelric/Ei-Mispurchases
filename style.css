@@ -16,3 +16,7 @@
     border-style: groove;
     margin: 40px 0;
 }
+
+.alert{
+    display: none;
+}

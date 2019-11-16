@@ -14,8 +14,8 @@ body {
   position: relative;
   margin: auto;
   overflow: hidden;
-  width: 600px;
-  height: 400px;
+  width: 700px;
+  height: 500px;
   background: white;
   box-shadow: 5px 5px 15px rgba(#D9AAB7, .5);
   border-radius: 10px;
@@ -39,8 +39,8 @@ h2 {
 }
 
 img {
-  width: 290px;
-  margin-top: 47px;
+  width: 350px;
+  margin-top: 50px;
 }
 
 .slideshow-buttons {
@@ -51,10 +51,10 @@ img {
 
 .product {
   position: absolute;
-  width: 40%;
+  width: 45%;
   height: 100%;
-  top: 10%;
-  left: 60%;
+  top: 12%;
+  left: 55%;
 }
 
 .desc {
@@ -62,7 +62,7 @@ img {
   letter-spacing: 0;
   margin-bottom: 17px;
   color: #4E4E4E;
-  font-size: .7em;
+  font-size: 1em;
   line-height: 1.6em;
   margin-right: 25px;
   text-align: justify;
