@@ -12,9 +12,12 @@
     margin: auto;
 }
 
-.card1{
-    padding: 20px;
+.card{
     border-style: groove;
+<<<<<<< HEAD
+    margin: 40px 0;
+}
+=======
     margin-top: 40px;
     margin-bottom: 40px;
     margin-right: 10px;
@@ -65,3 +68,4 @@
     margin-right: 40px;
     margin-left: 10px;
 }
+>>>>>>> ce4d078e7ad6e849b20c46ce1ce1e9d05610e8fc
