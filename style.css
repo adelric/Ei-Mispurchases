@@ -20,3 +20,8 @@
 .alert{
     display: none;
 }
+
+.discount{
+    width: 4em;
+    height: 4em;
+}
