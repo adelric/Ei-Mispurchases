@@ -1,0 +1,17 @@
+#purchases{
+    color:blue;
+}
+
+#thanks{
+    text-align: center;
+    color: green;
+}
+
+.card{
+    margin: auto;
+}
+
+.alert{
+    font-size: x-large;
+    text-align: center;
+}
